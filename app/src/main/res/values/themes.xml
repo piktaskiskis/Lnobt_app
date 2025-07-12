@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Main App Theme -->
+    <style name="Theme.LnobtTicketApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark_maroon</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style
+        name="Theme.LnobtTicketApp.Splash"
+        parent="Theme.Material3.DayNight.NoActionBar"
+        tools:ignore="MissingClass">
+
+        <item name="android:windowBackground">@color/dark_maroon</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash</item>
+        <item name="android:windowSplashScreenBackground">@color/dark_maroon</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/dark_maroon</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

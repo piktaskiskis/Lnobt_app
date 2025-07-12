@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lnobt_ticket_app</string>
+    <string name="tickets">Tickets</string>
+    <string name="profile">Profile</string>
+    <string name="show_dates">Show Dates</string>
+    <string name="description">Description</string>
+    <string name="duration">Duration</string>
+    <string name="composer">Composer</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+</resources>
